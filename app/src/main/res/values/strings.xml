@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DIARY 10118390</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="jenis_kegiatan">
+        <item>Belajar</item>
+        <item>Refreshing</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
